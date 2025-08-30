@@ -4,8 +4,6 @@ import requests
 import json
 import os.path
 from helper import Helper
-
-
 class Api():
     api_url = ""
     global_variable = {}
